@@ -72,7 +72,23 @@
 * Для получения массива чисел, характеризующих цвет пикселя использовалась библиотека 'Pillow'
 * Файлы с изображениями смотреть в папке [Lab2_Bilateral](https://github.com/Russia163Samara/CUDA-labs/tree/main/Lab2_Bilateral), они подписаны
 
-![japan](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
+### Оригинальное изображение:
+
+![japan_orig](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
+
+### Изображение после наложения Gray Scale:
+
+![japan_blackandwhite](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
+
+### После наложения двустороннего фильтра силами CPU:
+
+![japan_CPU](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
+
+### После наложения двустороеннего фильтра силами GPU:
+
+![japan_GPU](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
+
+### Сравнительная таблица с результатами:
 
 |     Время CPU     |      Время GPU     | Множитель ускорения |
 |:-----------------:|:------------------:|:-------------------:|
