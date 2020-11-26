@@ -72,7 +72,7 @@
 * Для получения массива чисел, характеризующих цвет пикселя использовалась библиотека 'Pillow'
 * Файлы с изображениями смотреть в папке [Lab2_Bilateral](https://github.com/Russia163Samara/CUDA-labs/tree/main/Lab2_Bilateral), они подписаны
 
-!(https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
+![japan](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
 
 |     Время CPU     |      Время GPU     | Множитель ускорения |
 |:-----------------:|:------------------:|:-------------------:|
