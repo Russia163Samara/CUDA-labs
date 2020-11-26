@@ -78,15 +78,15 @@
 
 ### Изображение после наложения Gray Scale:
 
-![japan_blackandwhite](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
+![japan_blackandwhite](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/GrayScale.png)
 
 ### После наложения двустороннего фильтра силами CPU:
 
-![japan_CPU](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
+![japan_CPU](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/CPU.png)
 
 ### После наложения двустороеннего фильтра силами GPU:
 
-![japan_GPU](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/Orig.jpg)
+![japan_GPU](https://github.com/Russia163Samara/CUDA-labs/blob/main/Lab2_Bilateral/GPU.png)
 
 ### Сравнительная таблица с результатами:
 
